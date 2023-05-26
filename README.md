@@ -84,7 +84,7 @@ Resources
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://tumainimaganiko.github.io/JS-capstone-project/dist/)
-
+- [Live Demo Video](https://drive.google.com/file/d/1XEptd7XzfC6ex0LSW3k2tXtJQ8Uzu3n0/view?usp=sharing)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- GETTING STARTED -->
 
