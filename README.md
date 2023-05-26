@@ -38,7 +38,11 @@
 
 # 📖  MOVIE GALLERY <a name="about-project"></a>
 
->This is my second microverse project I have built it with HTML and CSS.
+>This Javasrcipt Capstone Project focuses on developing movie APIs that allow us watch movies content via apis and allow to leave likes and comments on them. built with HTML, CSS, and Java code.
+
+Topics
+Resources
+
 
 ## 🛠 Built With <a name="built-with"></a>
 1. HTML
@@ -152,8 +156,7 @@ Coming soon
 👤 Paul Tesfay
 
 - GitHub: [@githubhandle](https://github.com/Paul-tes)
-- Twitter: [@twitterhandle](https://twitter.com/Chief2maini)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tumaini-maganiko-991b30262/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/paul-tesfaye-687820215/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
